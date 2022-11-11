@@ -26,7 +26,7 @@
 <canvas width="100" height="100" id="cadre"></canvas>
 <p>
 <input type="text" id="inBleu" value="55" size="4">
-<button onclick="changerCouleur()">Cliquez ici</button>
+<button onclick="changerCouleur()" id="but1">Cliquez ici</button>
 </p>
 </body>
 <script>
@@ -34,6 +34,7 @@ function changerCouleur() {
   let elem = document.getElementById("elem1");
   let bleu = document.getElementById("inBleu");
   elem.style.color = "rgb(" + (Math.random() * 100) + "," + (Math.random() * 100) + "," + bleu.value + ")";
+  document.getElementById("nut1").innerHTML = "<strong>Aïe!!</strong>";
 }
 </script>
 <script src="script.js"></script>
