@@ -1,7 +1,5 @@
 ---
 title: "HTML CSS JavaScript en français"
-author: "Jean-Marc Lienher"
-date: "Nov 11, 2022" 
 lang: "fr-fr"
 ---
 
