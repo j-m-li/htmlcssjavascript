@@ -22,6 +22,6 @@ Voici un exemple des plus simples :
 
 &#x1F578; [Voir le résultat](https://jeanmarclienher.github.io/htmlcssjavascript/html/exemple_001.html)
 
-### [&#x2B95; suite du cours &#x2B95;](../003/) 
+### [&#x2B95; suite du cours &#x2B95;](md/002/) 
 
-[&#x1F517; liens utils](../900/)
+[&#x1F517; liens utils](md/900/)
