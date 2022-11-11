@@ -4,78 +4,75 @@
 
 ### &#x1F517; Navigateurs Internet
 
-https://www.mozilla.org/fr/firefox/
+[www.mozilla.org/fr/firefox/](https://www.mozilla.org/fr/firefox/)
 
-https://www.google.fr/chrome/
+[www.google.fr/chrome/](https://www.google.fr/chrome/)
 
-https://www.microsoft.com/fr-fr/edge
+[www.microsoft.com/fr-fr/edge](https://www.microsoft.com/fr-fr/edge)
 
-https://support.apple.com/fr-ch/safari
+[support.apple.com/fr-ch/safari](https://support.apple.com/fr-ch/safari)
 
-https://www.opera.com/gx
+[www.opera.com/gx](https://www.opera.com/gx)
+
+[lynx.invisible-island.net/](https://lynx.invisible-island.net/)
 
 
 ### &#x1F517; Editeurs de texte pour développeurs
 
-https://code.visualstudio.com/
+[code.visualstudio.com](https://code.visualstudio.com/)
 
-https://notepad-plus-plus.org/
+[notepad-plus-plus.org](https://notepad-plus-plus.org/)
 
-https://www.vim.org/
+[www.vim.org](https://www.vim.org/)
 
 
 ### &#x1F517; Autres outils
 
-https://www.gimp.org/
+[www.gimp.org](https://www.gimp.org/)
 
-https://inkscape.org/fr/
+[nkscape.org/fr](https://inkscape.org/fr/)
 
-https://filezilla-project.org/
+[filezilla-project.org](https://filezilla-project.org/)
 
-https://www.wampserver.com/
+[www.wampserver.com](https://www.wampserver.com/)
 
-https://fr.libreoffice.org/
+[fr.libreoffice.org](https://fr.libreoffice.org/)
 
 
 ### &#x1F517; HTML
 
-https://validator.w3.org/
+[validator.w3.org](https://validator.w3.org/)
 
-https://developer.mozilla.org/fr/docs/Web/HTML
+[developer.mozilla.org/fr/docs/Web/HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
 
-https://www.w3schools.com/html/default.asp
+[www.w3schools.com/html](https://www.w3schools.com/html/default.asp)
 
 
 ### &#x1F517; CSS
 
-https://developer.mozilla.org/fr/docs/Web/CSS
+[developer.mozilla.org/fr/docs/Web/CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
 
-https://www.w3schools.com/css/default.asp
+[www.w3schools.com/css](https://www.w3schools.com/css/default.asp)
 
 
 ### &#x1F517; JavaScript
 
-https://developer.mozilla.org/fr/docs/Web/JavaScript
+[developer.mozilla.org/fr/docs/Web/JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
-https://www.w3schools.com/js/default.asp
+[www.w3schools.com/js](https://www.w3schools.com/js/default.asp)
 
 
 ### &#x1F517; PHP
 
-https://www.php.net/manual/fr/
+[www.php.net/manual/fr](https://www.php.net/manual/fr/)
 
-https://www.w3schools.com/php/default.asp
+[www.w3schools.com/php](https://www.w3schools.com/php/default.asp)
 
 
 ### &#x1F517; SQL
 
-https://www.w3schools.com/sql/default.asp
+[www.w3schools.com/sql](https://www.w3schools.com/sql/default.asp)
 
-https://mariadb.org/documentation/
+[mariadb.org/documentation](https://mariadb.org/documentation/)
 
-https://www.sqlite.org/docs.html
-
-
-
-
-
+[www.sqlite.org/docs.html](https://www.sqlite.org/docs.html)
