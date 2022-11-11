@@ -2,6 +2,11 @@
 
 [Introduction simple et rapide](https://jeanmarclienher.github.io/htmlcssjavascript/index.html) à HTML5, CSS3 et JavaScript.
 
+
+Une page WEB est un fichier texte pur sauvegardé avec l'extension ``.html`` au lieu de ``.txt`` .
+
+Voici un exemple des plus simples : 
+
 ```
 <html>
 <body>
@@ -14,4 +19,4 @@
 
 [Voir le résultat](https://jeanmarclienher.github.io/htmlcssjavascript/html/exemple_001.html)
 
-[suite du cours](https://jeanmarclienher.github.io/htmlcssjavascript/md/002/)">suite du cours</a></h3>
+### [suite du cours](https://jeanmarclienher.github.io/htmlcssjavascript/md/002/)
