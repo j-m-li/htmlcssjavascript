@@ -2,12 +2,12 @@
 lang: "fr-fr"
 ---
 
-# <img src="logo.svg" height="32"> [HTML CSS JavaScript en français](https://jeanmarclienher.github.io/htmlcssjavascript/)
+# <img src="logo.svg" height="32"> [HTML CSS JavaScript en français](https://jeanmarclienher.github.io/htmlcssjavascript/README.html)
 
 
 ## Introduction
 
-[Introduction simple et rapide](https://jeanmarclienher.github.io/htmlcssjavascript/index.html) à HTML5, CSS3 et JavaScript.
+[Introduction simple et rapide](https://jeanmarclienher.github.io/htmlcssjavascript/README.html) à HTML5, CSS3 et JavaScript.
 
 
 Une page WEB est un fichier texte pur sauvegardé avec l'extension ``.html`` au lieu de ``.txt`` .
