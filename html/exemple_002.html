@@ -6,7 +6,11 @@
 <title>Mon premier site</title>
 <link rel="stylesheet" href="style.css">
 <style>
-.center {margin-left: auto; margin-right: auto}
+.vert {color: #00FF00;}
+.rouge {color: red;}
+.fond-gris {background-color: lightgray;}
+.centrer {display:inline-block; margin-left: auto; margin-right: auto;}
+#cadre {border:1px solid #000000;}
 </style>
 </head>
 <body>
@@ -15,9 +19,10 @@
 <p>
 <a href="https://google.ch">Un lien vers google</a>...
 </p>
-<div>
-<span>Un segment de texte</span> et <span>un autre</span>...
+<div class="fond-gris">
+<span class="rouge">Un segment de texte</span> et <span class="vert">un autre</span>...
 </div>
+<canvas width="100" height="100" id="cadre"></canvas>
 </body>
 <script>
 </script>
