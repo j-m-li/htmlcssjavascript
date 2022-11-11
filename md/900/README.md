@@ -4,9 +4,9 @@
 
 ### &#x1F517; Navigateurs Internet
 
-[www.mozilla.org/fr/firefox/](https://www.mozilla.org/fr/firefox/)
+[www.mozilla.org/fr/firefox](https://www.mozilla.org/fr/firefox/)
 
-[www.google.fr/chrome/](https://www.google.fr/chrome/)
+[www.google.fr/chrome](https://www.google.fr/chrome/)
 
 [www.microsoft.com/fr-fr/edge](https://www.microsoft.com/fr-fr/edge)
 
@@ -30,7 +30,7 @@
 
 [www.gimp.org](https://www.gimp.org/)
 
-[nkscape.org/fr](https://inkscape.org/fr/)
+[inkscape.org/fr](https://inkscape.org/fr/)
 
 [filezilla-project.org](https://filezilla-project.org/)
 
