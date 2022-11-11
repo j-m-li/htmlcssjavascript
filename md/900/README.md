@@ -2,7 +2,7 @@
 
 ## Liens
 
-
+***
 
 ### &#x1F517; Navigateurs Internet
 
@@ -38,6 +38,8 @@
 
 [inkscape.org/fr](https://inkscape.org/fr/)
 
+[www.audacityteam.org](https://www.audacityteam.org/)
+
 [filezilla-project.org](https://filezilla-project.org/)
 
 [www.wampserver.com](https://www.wampserver.com/)
@@ -53,6 +55,10 @@
 [www.debian.org/index.fr.html](https://www.debian.org/index.fr.html)
 
 [www.virtualbox.org](https://www.virtualbox.org/)
+
+[obsproject.com/fr](https://obsproject.com/fr)
+
+[www.blender.org](https://www.blender.org/)
 
 
 
@@ -101,5 +107,6 @@
 [mariadb.org/documentation](https://mariadb.org/documentation/)
 
 [www.sqlite.org/docs.html](https://www.sqlite.org/docs.html)
+
 
 ***
