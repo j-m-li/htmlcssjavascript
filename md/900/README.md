@@ -2,6 +2,8 @@
 
 ## Liens
 
+
+
 ### &#x1F517; Navigateurs Internet
 
 [www.mozilla.org/fr/firefox](https://www.mozilla.org/fr/firefox/)
@@ -17,6 +19,7 @@
 [lynx.invisible-island.net/](https://lynx.invisible-island.net/)
 
 
+
 ### &#x1F517; Editeurs de texte pour développeurs
 
 [code.visualstudio.com](https://code.visualstudio.com/)
@@ -26,7 +29,10 @@
 [www.vim.org](https://www.vim.org/)
 
 
+
 ### &#x1F517; Autres outils
+
+[fr.wordpress.org](https://fr.wordpress.org/)
 
 [www.gimp.org](https://www.gimp.org/)
 
@@ -36,7 +42,18 @@
 
 [www.wampserver.com](https://www.wampserver.com/)
 
+[www.electronjs.org](https://www.electronjs.org/)
+
+[cordova.apache.org](https://cordova.apache.org/)
+
 [fr.libreoffice.org](https://fr.libreoffice.org/)
+
+[tortoisegit.org](https://tortoisegit.org/)
+
+[www.debian.org/index.fr.html](https://www.debian.org/index.fr.html)
+
+[www.virtualbox.org](https://www.virtualbox.org/)
+
 
 
 ### &#x1F517; HTML
@@ -48,11 +65,15 @@
 [www.w3schools.com/html](https://www.w3schools.com/html/default.asp)
 
 
+
 ### &#x1F517; CSS
 
 [developer.mozilla.org/fr/docs/Web/CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
 
 [www.w3schools.com/css](https://www.w3schools.com/css/default.asp)
+
+[getbootstrap.com](https://getbootstrap.com/)
+
 
 
 ### &#x1F517; JavaScript
@@ -60,6 +81,9 @@
 [developer.mozilla.org/fr/docs/Web/JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
 [www.w3schools.com/js](https://www.w3schools.com/js/default.asp)
+
+[nodejs.org/fr](https://nodejs.org/fr/)
+
 
 
 ### &#x1F517; PHP
@@ -69,6 +93,7 @@
 [www.w3schools.com/php](https://www.w3schools.com/php/default.asp)
 
 
+
 ### &#x1F517; SQL
 
 [www.w3schools.com/sql](https://www.w3schools.com/sql/default.asp)
@@ -76,3 +101,5 @@
 [mariadb.org/documentation](https://mariadb.org/documentation/)
 
 [www.sqlite.org/docs.html](https://www.sqlite.org/docs.html)
+
+***
