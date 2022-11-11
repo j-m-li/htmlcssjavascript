@@ -1,5 +1,4 @@
 ---
-title: "HTML CSS JavaScript en français"
 lang: "fr-fr"
 ---
 
