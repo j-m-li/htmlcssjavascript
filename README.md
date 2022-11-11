@@ -1,4 +1,5 @@
-# <img src="logo.svg" height="32"> HTML CSS JavaScript en français
+# <img src="logo.svg" height="32"> [HTML CSS JavaScript en français](https://jeanmarclienher.github.io/htmlcssjavascript/)
+
 
 ## Introduction
 
@@ -21,4 +22,6 @@ Voici un exemple des plus simples :
 
 &#x1F578; [Voir le résultat](https://jeanmarclienher.github.io/htmlcssjavascript/html/exemple_001.html)
 
-### &#x2B95; [suite du cours](https://jeanmarclienher.github.io/htmlcssjavascript/md/002/) &#x2B95;
+### [&#x2B95; suite du cours &#x2B95;](../003/) 
+
+[&#x1F517; liens utils](../900/)
