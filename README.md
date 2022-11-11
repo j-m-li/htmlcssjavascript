@@ -1,4 +1,6 @@
-# HTML CSS JavaScript en français
+# <img src="logo.svg" height="32"> HTML CSS JavaScript en français
+
+## Introduction
 
 [Introduction simple et rapide](https://jeanmarclienher.github.io/htmlcssjavascript/index.html) à HTML5, CSS3 et JavaScript.
 
@@ -17,6 +19,6 @@ Voici un exemple des plus simples :
 ```
 ![hello world](img/notepad.png)
 
-[Voir le résultat](https://jeanmarclienher.github.io/htmlcssjavascript/html/exemple_001.html)
+&#x1F578; [Voir le résultat](https://jeanmarclienher.github.io/htmlcssjavascript/html/exemple_001.html)
 
-### [suite du cours](https://jeanmarclienher.github.io/htmlcssjavascript/md/002/)
+### &#x2B95; [suite du cours](https://jeanmarclienher.github.io/htmlcssjavascript/md/002/) &#x2B95;
