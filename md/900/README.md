@@ -16,7 +16,7 @@
 
 [www.opera.com/gx](https://www.opera.com/gx)
 
-[lynx.invisible-island.net/](https://lynx.invisible-island.net/)
+[lynx.invisible-island.net](https://lynx.invisible-island.net/)
 
 
 
@@ -30,9 +30,19 @@
 
 
 
-### &#x1F517; Autres outils
+### &#x1F517; Contenu multimedia
 
-[fr.wordpress.org](https://fr.wordpress.org/)
+[www.pexels.com/fr-fr](https://www.pexels.com/fr-fr/)
+
+[pixabay.com/fr](https://pixabay.com/fr/)
+
+[soundcloud.com/royaltyfreemusic-nocopyrightmusic](https://soundcloud.com/royaltyfreemusic-nocopyrightmusic)
+
+[fonts.google.com](https://fonts.google.com/)
+
+
+
+### &#x1F517; Autres outils
 
 [www.gimp.org](https://www.gimp.org/)
 
@@ -59,6 +69,8 @@
 [obsproject.com/fr](https://obsproject.com/fr)
 
 [www.blender.org](https://www.blender.org/)
+
+[fr.wordpress.org](https://fr.wordpress.org/)
 
 
 
