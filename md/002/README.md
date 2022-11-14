@@ -81,11 +81,11 @@ Entête de chapitre secondaire.
 
 
 **`` <form action="https://lienher.org/jean-marc/echo.php" method="get" target="_blank"> ``**
-Formulaire qui envoie les données entrées ci-dessous au script PHP de mon site WEB. Un nouvel onglet est ouvert.
+[Formulaire](https://developer.mozilla.org/fr/docs/Learn/Forms/Your_first_form) qui envoie les données entrées ci-dessous au script PHP de mon site WEB. Un nouvel onglet est ouvert.
 
 
 **`` <input type="text" name="v1" value="" size="20" placeholder="Entrez du &quot;texte&quot;"> ``**
-Champs d'entrée texte pour le formulaire. Notez les entités dans l'attribut placeholer.
+Champ d'entrée texte pour le formulaire. Notez les entités dans l'attribut placeholer.
 
 
 **`` <br> ``**
@@ -96,9 +96,10 @@ A noter que br est une balise vide.
 **``&nbsp; <input type="submit" value="&gt;Envoyer&lt;"> ``**
 Bouton de type "envoi" précédé de 2 caractères d'espace.
 
-Si nous remplaçons ``&nbsp;`` par un caractère d'espace, le bouton ne serait précédé d'aucun espace.
+Si nous remplaçons ``&nbsp;`` par un caractère d'espace, le bouton ne sera précédé d'aucun espace.
 
 Les espaces, les tabulations et les retours à la ligne consécutifs [ne comptent que pour un seul espace](https://developer.mozilla.org/fr/docs/Web/CSS/white-space).
+
 Les espaces en début de ligne sont ignorés.
 
 
