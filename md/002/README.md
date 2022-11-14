@@ -2,7 +2,7 @@
 
 ## Un exemple complet de page HTML pur
 
-`` <!DOCTYPE html> ``
+**`` <!DOCTYPE html> ``**
 Balise [SGML](https://www.w3.org/TR/html4/sgml/dtd.html) qui indique que notre document est de type HTML5.
 
 
@@ -15,7 +15,7 @@ Début de l'entête.
 
 
 `` <meta charset="utf-8"> ``
-L'encodage du jeu de caractère de ce fichier est Unicode [UTF-8](https://fr.wikipedia.org/wiki/UTF-8).
+L'encodage du jeu de caractères de ce fichier est Unicode [UTF-8](https://fr.wikipedia.org/wiki/UTF-8).
 
 
 `` <meta name="viewport" content="width=device-width, initial-scale=1.0"> ``
