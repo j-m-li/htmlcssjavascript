@@ -10,5 +10,5 @@
 
 ***
 
-[&#x1F517; liens utils](md/900/) -- Domaine Public MMXXII par Jean-Marc Lienher
+[&#x1F517; liens utils](../900/) -- Domaine Public MMXXII par Jean-Marc Lienher
 
