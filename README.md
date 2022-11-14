@@ -10,8 +10,10 @@ lang: "fr-fr"
 [Introduction simple et rapide](https://jeanmarclienher.github.io/htmlcssjavascript/README.html) à HTML5, CSS3 et JavaScript.
 
 
-Une page WEB est un fichier [texte pur](https://fr.wikipedia.org/wiki/Fichier_texte) sauvegardé avec l'extension ``.html`` au lieu de ``.txt`` .
+### HTML
 
+Une page "web" HTML est un fichier [texte pur](https://fr.wikipedia.org/wiki/Fichier_texte) sauvegardé avec l'extension ``.html`` au lieu de ``.txt`` .
+(Donc il n'y a besoin d'aucun logiciel particulier pour créer un fichier HTML!)
 
 Ce fichier contient des [balises](https://developer.mozilla.org/fr/docs/Web/HTML/Element) et des entités inspirées du format [XML](https://developer.mozilla.org/fr/docs/Web/XML/XML_introduction), ainsi que du texte.
 
@@ -22,9 +24,9 @@ Il y a 3 types de balises :
 
 * Les balises de fermeture qui terminent un élément, par exemple ``</h1>``
 
-* Les balises vides qui définissent un élément vide, par exemple ``<br/>``
+* Les balises vides qui définissent un élément vide, par exemple ``<br/>``. (En HTML le ``/`` est optionnel, ``<br>`` est aussi valide.)
 
-Les balises peuvent avoir des attributs et leur valeur, par exemple ``lang="fr"``
+Les balises vides ou d'ouverture peuvent avoir des attributs et leur valeur, par exemple ``<p lang="fr">``
 
 Il y a une [multitude d'entités](https://html.spec.whatwg.org/multipage/named-characters.html) qui peuvent être utilisées dans le texte, mais celles à connaître absolument sont :
 
@@ -39,7 +41,7 @@ Il y a une [multitude d'entités](https://html.spec.whatwg.org/multipage/named-c
 * ``&#x10BEEF;`` qui insert un caractère [Unicode](https://unicode.org/emoji/charts/emoji-list.html) dont la valeur hexadécimale est "10BEEF".
 
 
-### Voici un exemple des plus simples : 
+#### Voici un exemple des plus simples : 
 
 ```
 <html lang="fr">
@@ -56,4 +58,6 @@ Il y a une [multitude d'entités](https://html.spec.whatwg.org/multipage/named-c
 
 ### [&#x2B95; suite du cours &#x2B95;](md/002/) 
 
-[&#x1F517; liens utils](md/900/)
+***
+
+[&#x1F517; liens utils](md/900/) -- Domaine Public MMXXII par Jean-Marc Lienher
