@@ -2,7 +2,7 @@
 
 ## Un exemple complet de page HTML pur
 
-****`` <!DOCTYPE html> ``****
+**`` <!DOCTYPE html> ``**
 Balise [SGML](https://www.w3.org/TR/html4/sgml/dtd.html) qui indique que notre document est de type HTML5.
 
 
@@ -69,7 +69,7 @@ Début d'un bloc. Le contenu de ce bloc peut être modifié par l'utilisateur.
 
 
 **`` <span>Un segment de texte</span> et <span>un autre</span>...  ``**
-2 segments de texte. Nous verrons leurs utilités en CSS.
+2 segments de texte. Nous verrons leur utilité en CSS.
 
 
 **`` </div> ``**
@@ -98,7 +98,7 @@ Bouton de type "envoi" précédé de 2 caractères d'espace.
 
 Si nous remplaçons ``&nbsp;`` par un caractère d'espace, le bouton ne sera précédé d'aucun espace.
 
-Les espaces, les tabulations et les retours à la ligne consécutifs [ne comptent que pour un seul espace](https://developer.mozilla.org/fr/docs/Web/CSS/white-space).
+En HTML les espaces, les tabulations et les retours à la ligne consécutifs [ne comptent que pour un seul espace](https://developer.mozilla.org/fr/docs/Web/CSS/white-space).
 
 Les espaces en début de ligne sont ignorés.
 
@@ -142,7 +142,7 @@ Fin du document.
 <form action="https://lienher.org/jean-marc/echo.php" method="get" target="_blank">
 <input type="text" name="v1" value="" size="20" placeholder="Entrez du &quot;texte&quot;">
 <br>
- &nbsp; <input type="submit" value="&gt;Envoyer&lt;">
+&nbsp; <input type="submit" value="&gt;Envoyer&lt;">
 </form>
 <hr>
 </body>

@@ -1,6 +1,6 @@
 # <img src="../../logo.svg" height="32"> [HTML CSS JavaScript en français](https://jeanmarclienher.github.io/htmlcssjavascript/)
 
-## Utiliser les outils de développement du navigateur
+## Un exemple complet de page HTML pur
 
 ***
 
