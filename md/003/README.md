@@ -6,7 +6,8 @@
 
 ### Voir le code source de la page
 
-C'est l'outils basic de votre navigateur qui permet de voir le contenu de la page HTML.
+C'est l'outil basic de votre navigateur qui permet de voir le contenu de la page HTML.
+Avec Firefox, il s'ouvre avec le menu contextuel (clic-droit).
 
 
 ![Menu source](../../img/menu_source.png)
@@ -15,7 +16,29 @@ C'est l'outils basic de votre navigateur qui permet de voir le contenu de la pag
 ![vue source](../../img/vue_source.png)
 
 
-[&#x1F578; voir le résultat](../../html/exemple_003.html)
+### Outils de développement
+
+
+Ces outils permettent de déboguer votre code.
+
+
+Avec Firefox, ils s'ouvrent avec le menu ''&#9776;'' &#x1F517; ''outils supplémentaires'' &#x1F517; ''Outils de développement...''.
+
+
+![Menu Firefox](../../img/menu_firefox.png)
+
+
+![Menu Firefox](../../img/menu_dev.png)
+
+
+![Outils boîte](../../img/outils_boite.png)
+
+
+![Outils console](../../img/outils_console.png)
+
+
+![Outils réseau](../../img/outils_reseau.png)
+
 
 ### [&#x2B95; suite du cours &#x2B95;](../004/) 
 
