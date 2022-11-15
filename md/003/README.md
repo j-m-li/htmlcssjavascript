@@ -31,22 +31,32 @@ Avec Firefox, ils s'ouvrent avec le menu ''&#9776;'' &#x2B95; ''outils suppléme
 ![Menu Firefox](../../img/menu_dev.png)
 
 
+La mise en page :
 ![Outils boîte](../../img/outils_boite.png)
 
 
+Les messages d'erreur :
 ![Outils console](../../img/outils_console.png)
 
 
+Le trafic réseau :
 ![Outils réseau](../../img/outils_reseau.png)
 
 
-### Vérifier que le balisage est correcte.
+### Vérifier que le balisage est correct.
 
-[W3 validator](https://validator.w3.org/#validate_by_input).
-
+Ce site WEB en anglais permet de vérifier que votre HTML est correct : [https://validator.w3.org](https://validator.w3.org/#validate_by_input).
 
 
 ![validator](../../img/validator.png)
+
+
+### Astuce
+
+Pour visualiser votre page HTML à peu près comme il est affiché sur un téléphone protable, réduisez au maximum la largeur de la fenêtre de votre navigateur et faites un zoom de 133%.
+
+ 
+![zoom](../../img/zoom.png)
 
 
 ### [&#x2B95; suite du cours &#x2B95;](../004/) 
