@@ -4,6 +4,15 @@
 
 ***
 
+### &#x1F517; Tutoriels vidéos et livres
+
+[ESD](https://www.youtube.com/watch?v=1HSfEqYRO8M)
+
+[Seb Code](https://www.amazon.fr/kindle-dbs/entity/author/B0B3TZNM6R)
+
+[OpenClassRooms](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3)
+
+
 ### &#x1F517; Navigateurs Internet
 
 [www.mozilla.org/fr/firefox](https://www.mozilla.org/fr/firefox/)
