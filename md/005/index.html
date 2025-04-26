@@ -7,8 +7,52 @@
 <link rel="stylesheet" href="https://j-m-li.github.io/assets/css/style.css">
 </head>
 <body><div class="container-lg px-3 my-5 markdown-body">
-<h1><img src="../../logo.svg" height="32"> <a href="https://jeanmarclienher.github.io/htmlcssjavascript/">HTML CSS JavaScript en français</a></h1>
+<h1><img src="../../logo.svg" height="32"> <a href="https://j-m-li.github.io/htmlcssjavascript/">HTML CSS JavaScript en français</a></h1>
 <h2 id="toc1">Un exemple complet de page HTML pur</h2>
+<pre><code>&lt;!DOCTYPE html>
+&lt;html lang="fr">
+&lt;head>
+&lt;meta charset="utf-8">
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0">
+&lt;title>Mon premier site&lt;/title>
+&lt;link rel="icon" href="../favicon.ico" type="image/x-icon">
+&lt;link rel="stylesheet" href="style.css">
+&lt;style>
+.vert {color: #00FF00;}
+.rouge {color: red;}
+.fond-gris {background-color: lightgray;}
+.centrer {display:block; margin-left: auto; margin-right: auto;}
+#cadre {border:1px solid #000000;}
+&lt;/style>
+&lt;/head>
+&lt;body>
+&lt;img src="gilet.svg" style="width:200px;" class="centrer">
+&lt;h1>Mon premier site WEB&lt;/h1>
+&lt;p>
+&lt;a href="https://google.ch">Un lien vers google&lt;/a>...
+&lt;/p>
+&lt;hr>
+&lt;div class="fond-gris" contenteditable="true">
+&lt;span class="rouge">Un segment de texte&lt;/span> et &lt;span id="elem1" class="vert">un autre&lt;/span>...
+&lt;/div>
+&lt;canvas width="100" height="100" id="cadre">&lt;/canvas>
+&lt;p>
+&lt;input type="text" id="inBleu" value="55" size="4">
+&lt;button onclick="changerCouleur()" id="but1">Cliquez ici&lt;/button>
+&lt;/p>
+&lt;/body>
+&lt;script>
+function changerCouleur() {
+  let elem = document.getElementById("elem1");
+  let bleu = document.getElementById("inBleu");
+  elem.style.color = "rgb(" + ((Math.random() > 0.5) ? 255 : 0) + ",255," + bleu.value + ")";
+  document.getElementById("but1").innerHTML = "&lt;strong>Aïe!!&lt;/strong>";
+}
+&lt;/script>
+&lt;script src="script.js">&lt;/script>
+&lt;/html>
+
+</code></pre>
 <hr>
 <a href="../../html/exemple_003.html">&#x1F578; voir le résultat</a>
 <br><br>

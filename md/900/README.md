@@ -1,4 +1,4 @@
-# <img src="../../logo.svg" height="32"> [HTML CSS JavaScript en français](https://jeanmarclienher.github.io/htmlcssjavascript/)
+# <img src="../../logo.svg" height="32"> [HTML CSS JavaScript en français](https://j-m-li.github.io/htmlcssjavascript/)
 
 ## Liens
 
