@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" style="height:100%">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JML</title>
+<link rel="stylesheet" href="https://j-m-li.github.io/htmlcssjavascript/html/style.css">
+</head>
+<body><div class="c">
+<h1><img src="../../logo.svg" height="32"> <a href="https://jeanmarclienher.github.io/htmlcssjavascript/">HTML CSS JavaScript en français<sup>[1]</sup></a></h1>
+<h2 id="toc1">Un exemple complet de page HTML pur</h2>
+<b><code> <!DOCTYPE html> </code></b>
+Balise <a href="https://www.w3.org/TR/html4/sgml/dtd.html">SGML<sup>[2]</sup></a> qui indique que notre document est de type HTML5.
+<br>
+<br>
+<b><code> <html lang="fr"> </code></b>
+Balise racine et indication que la langue du texte est le français.
+<br>
+<br>
+<b><code> <head> </code></b>
+Début de l'entête.
+<br>
+<br>
+<b><code> <meta charset="utf-8"> </code></b>
+L'encodage du jeu de caractères de ce fichier est Unicode <a href="https://fr.wikipedia.org/wiki/UTF-8">UTF-8<sup>[3]</sup></a>.
+<br>
+<br>
+<b><code> <meta name="viewport" content="width=device-width, initial-scale=1.0"> </code></b>
+Définition de la vue optimale pour téléphone mobile.
+<br>
+<br>
+<b><code> <title>Mon premier site</title> </code></b>
+Titre de la page qui est affiché dans l'onglet du navigateur.
+<br>
+<br>
+<b><code> <link rel="icon" href="favicon.ico" type="image/x-icon"> </code></b>
+Icône affiché par le navigateur.
+<br>
+<br>
+<b><code> </head> </code></b>
+Fin de l'entête.
+<br>
+<br>
+<b><code> <body> </code></b>
+Début du corps du document.
+<br>
+<br>
+<b><code> <h1>Ma première page HTML</h1> </code></b>
+Entête de de chapitre la plus grande. Valeurs possible h1 à h7.
+<br>
+<br>
+<b><code> <img alt="Mon logo" src="gilet.svg" width="64"> </code></b>
+Affiche une image de 64 pixels de large ou si le navigateur de peut pas la charger, affiche le texte "Mon logo".
+A noter que img est une balise vide.
+<br>
+<br>
+<b><code> <p> </code></b>
+Début de paragraphe.
+<br>
+<br>
+<b><code> <a href="https://home.cern/fr/science/computing/birth-web">Un lien vers le CERN</a>...  </code></b>
+Liens cliquable vers une autre page HTML.
+<br>
+<br>
+<b><code> </p> </code></b>
+Fin de paragraphe.
+<br>
+<br>
+<b><code> <hr> </code></b>
+Ligne horizontale.
+A noter que hr est une balise vide.
+<br>
+<br>
+<b><code> <div contenteditable="true"> </code></b>
+Début d'un bloc. Le contenu de ce bloc peut être modifié par l'utilisateur.
+<br>
+<br>
+<b><code> <span>Un segment de texte</span> et <span>un autre</span>...  </code></b>
+2 segments de texte. Nous verrons leur utilité en CSS.
+<br>
+<br>
+<b><code> </div> </code></b>
+Fin de bloc.
+<br>
+<br>
+<b><code> <h2>Un formulaire</h2> </code></b>
+Entête de chapitre secondaire.
+<br>
+<br>
+<b><code> <form action="https://lienher.org/jean-marc/echo.php" method="get" target="_blank"> </code></b>
+<a href="https://developer.mozilla.org/fr/docs/Learn/Forms/Your_first_form">Formulaire<sup>[4]</sup></a> qui envoie les données entrées ci-dessous au script PHP de mon site WEB. Un nouvel onglet est ouvert.
+<br>
+<br>
+<b><code> <input type="text" name="v1" value="" size="20" placeholder="Entrez du &quot;texte&quot;"> </code></b>
+Champ d'entrée texte pour le formulaire. Notez les entités dans l'attribut placeholer.
+<br>
+<br>
+<b><code> <br> </code></b>
+Nouvelle ligne.
+A noter que br est une balise vide.
+<br>
+<br>
+<b><code>&nbsp; <input type="submit" value="&gt;Envoyer&lt;"> </code></b>
+Bouton de type "envoi" précédé de 2 caractères d'espace.
+<br>
+Si nous remplaçons <code>&nbsp;</code> par un caractère d'espace, le bouton ne sera précédé d'aucun espace.
+<br>
+En HTML les espaces, les tabulations et les retours à la ligne consécutifs <a href="https://developer.mozilla.org/fr/docs/Web/CSS/white-space">ne comptent que pour un seul espace<sup>[5]</sup></a>.
+<br>
+Les espaces en début de ligne sont ignorés.
+<br>
+<br>
+<b><code> </form> </code></b>
+Fin du formulaire.
+<br>
+<br>
+<b><code> <hr> </code></b>
+Ligne horizontale.
+<br>
+<br>
+<b><code> </body> </code></b>
+Fin du corps du document.
+<br>
+<br>
+<b><code> </html> </code></b>
+Fin du document.
+<br>
+<hr>
+<pre><code><!DOCTYPE html><br><html lang="fr"><br><head><br><meta charset="utf-8"><br><meta name="viewport" content="width=device-width, initial-scale=1.0"><br><title>Mon premier site</title><br><link rel="icon" href="favicon.ico" type="image/x-icon"><br></head><br><body><br><h1>Ma première page HTML</h1><br><img alt="Mon logo" src="gilet.svg" width="64"><br><p><br><a href="https://home.cern/fr/science/computing/birth-web">Un lien vers le CERN</a>...<br></p><br><hr><br><div contenteditable="true"><br><span>Un segment de texte</span> et <span>un autre</span>...<br></div><br><h2>Un formulaire</h2><br><form action="https://lienher.org/jean-marc/echo.php" method="get" target="_blank"><br><input type="text" name="v1" value="" size="20" placeholder="Entrez du &quot;texte&quot;"><br><br><br>&nbsp; <input type="submit" value="&gt;Envoyer&lt;"><br></form><br><hr><br></body><br></html><br></code></pre>
+<hr>
+<a href="../../html/exemple_002.html">&#x1F578; voir le résultat</a>
+<br>
+<h3 id="toc2"><a href="../003/">&#x2B95; suite du cours &#x2B95;</a> </h3>
+<hr>
+<a href="../900/">&#x1F517; liens utils</a> -- Domaine Public MMXXII par Jean-Marc Lienher
+<br>
+<br>
+</div><div></div></body>
+</html>
