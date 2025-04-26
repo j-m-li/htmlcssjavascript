@@ -2,12 +2,12 @@
 lang: "fr-fr"
 ---
 
-# <img src="logo.svg" height="32"> [HTML CSS JavaScript en français](https://jeanmarclienher.github.io/htmlcssjavascript/README.html)
+# <img src="logo.svg" height="32"> [HTML CSS JavaScript en français](https://j-m-li.github.io/htmlcssjavascript/README.html)
 
 
 ## Introduction
 
-[Introduction simple et rapide](https://jeanmarclienher.github.io/htmlcssjavascript/README.html) à HTML5, CSS3 et JavaScript.
+[Introduction simple et rapide](https://j-m-li.github.io/htmlcssjavascript/README.html) à HTML5, CSS3 et JavaScript.
 
 
 ### HTML
@@ -54,7 +54,7 @@ Il y a une [multitude d'entités](https://html.spec.whatwg.org/multipage/named-c
 ```
 ![hello world](img/notepad.png)
 
-&#x1F578; [Voir le résultat](https://jeanmarclienher.github.io/htmlcssjavascript/html/exemple_001.html)
+&#x1F578; [Voir le résultat](https://j-m-li.github.io/htmlcssjavascript/html/exemple_001.html)
 
 ### [&#x2B95; suite du cours &#x2B95;](md/002/) 
 
