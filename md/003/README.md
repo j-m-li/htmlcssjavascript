@@ -32,16 +32,18 @@ Avec Firefox, ils s'ouvrent avec le menu ''&#9776;'' &#x2B95; ''outils suppléme
 
 
 La mise en page :
+
 ![Outils boîte](../../img/outils_boite.png)
 
 
 Les messages d'erreur :
+
 ![Outils console](../../img/outils_console.png)
 
 
 Le trafic réseau :
-![Outils réseau](../../img/outils_reseau.png)
 
+![Outils réseau](../../img/outils_reseau.png)
 
 ### Vérifier que le balisage est correct.
 

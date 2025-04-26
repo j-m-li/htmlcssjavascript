@@ -1,6 +1,6 @@
 # <img src="../../logo.svg" height="32"> [HTML CSS JavaScript en français](https://j-m-li.github.io/htmlcssjavascript/)
 
-## Un exemple complet de page HTML pur
+## Un exemple complet de page HTML avec du JavaScript.
 
 ```
 <!DOCTYPE html>
@@ -52,7 +52,7 @@ function changerCouleur() {
 
 [&#x1F578; voir le résultat](../../html/exemple_003.html)
 
-### [&#x2B95; suite du cours &#x2B95;](../004/) 
+### [&#x2B95; fin  &#x2B95;](../../)
 
 ***
 
