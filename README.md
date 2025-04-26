@@ -2,12 +2,12 @@
 lang: "fr-fr"
 ---
 
-# <img src="logo.svg" height="32"> [HTML CSS JavaScript en français](https://j-m-li.github.io/htmlcssjavascript/README.html)
+# <img src="logo.svg" height="32"> [HTML CSS JavaScript en français](https://j-m-li.github.io/htmlcssjavascript/)
 
 
 ## Introduction
 
-[Introduction simple et rapide](https://j-m-li.github.io/htmlcssjavascript/README.html) à HTML5, CSS3 et JavaScript.
+[Introduction simple et rapide](https://j-m-li.github.io/htmlcssjavascript/) à HTML5, CSS3 et JavaScript.
 
 
 ### HTML
@@ -39,7 +39,6 @@ Il y a une [multitude d'entités](https://html.spec.whatwg.org/multipage/named-c
 * ``&nbsp;`` qui remplace un espace `` `` non sécable.
 
 * ``&#x10BEEF;`` qui insert un caractère [Unicode](https://unicode.org/emoji/charts/emoji-list.html) dont la valeur hexadécimale est "10BEEF".
-
 
 #### Voici un exemple des plus simples : 
 

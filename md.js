@@ -186,7 +186,8 @@ removeLinks(txt)
 					sub += txt[i];
 					i++;
 				}
-				o += this.parseLine(sub, 1) + "";
+				o += this.parseLine(
+					sub.replace(/&/g,"&amp;").replace(/</g,"&lt;"), 1) + "";
 				continue; 
 			}
 		}
@@ -253,17 +254,23 @@ parseLine(txt, depth)
 			o += txt[i];
 			i++;
 		}
-		return o + "<br>";
+		return o.replace(/&/g, "&amp;").replace(/</g, "&lt;") + "\n";
 	}
 
 	if (depth == 0) {
 		if (l == 0) {
 			if (!this.no_br) {
-				return "<br>\n";
-			} 
-			this.no_br = false;
+				this.no_br = 2;
+				return "<br><br>\n";
+			} else if (this.no_br == 2) {
+				this.no_br = false;
+				return "";
+			} else { 
+				this.no_br = false;
+			}
 			return "";
 		}
+		this.no_br = false;
 	}
  
 	// Header
@@ -386,6 +393,7 @@ parseLine(txt, depth)
 								+ "\" style=\"" 
 								+ style
 								+ "\">";
+								this.no_br = false;
 						} else if (img) {
 						// Table of Content
 							if (lab == "toc") {
@@ -402,9 +410,9 @@ parseLine(txt, depth)
 								+ href
 								+ "\">" 
 								+ this.parseLine(lab, depth + 1)
-								+ "<sup>[" 
-								+ this.links.length
-								+ "]</sup>"
+							//	+ "<sup>[" 
+							//	+ this.links.length
+							//	+ "]</sup>"
 								+ "</a>";
 						} else {
 							o += "<a href=\"" 
@@ -478,7 +486,8 @@ parseLine(txt, depth)
 					sub += txt[i];
 					i++;
 				}
-				o += this.parseLine(sub, depth + 1) + "</code>";
+				o += this.parseLine(
+					sub.replace(/&/g,"&amp;").replace(/</g, "&lt;"), depth + 1) + "</code>";
 				continue; 
 			}
 		}
@@ -554,9 +563,9 @@ toHtml(txt, title, lang, foot)
 	+ "<meta name=\"viewport\"" 
 	+ " content=\"width=device-width, initial-scale=1.0\">\n"
 	+ "<title>" + title + "</title>\n"
-	+ "<link rel=\"stylesheet\" href=\"https://j-m-li.github.io/htmlcssjavascript/html/style.css\">\n"
+	+ "<link rel=\"stylesheet\" href=\"https://j-m-li.github.io/assets/css/style.css\">\n"
 	+ "</head>\n"
-	+ "<body><div class=\"c\">\n"
+	+ "<body><div class=\"container-lg px-3 my-5 markdown-body\">\n"
 
 	let lines = txt.split("\n");
 	let l = lines.length;
@@ -585,6 +594,18 @@ toHtml(txt, title, lang, foot)
 				this.no_br = true;
 				i++;
 			} else {
+				if (i == 0 && lines[0].substr(0,3) == "---") {
+					i++;
+					while (i < l) {
+						if (lines[i].substr(0,3) 
+							== "---") 
+						{
+							i++;
+							break;
+						}
+						i++;
+					}
+				}
 				v = this.parseLine(lines[i], 0);
 			}	
 		} else {
@@ -620,6 +641,6 @@ let m = new Md();
 
 let data = fs.readFileSync(process.argv[2], "utf8");
 let txt = m.toHtml(data, "JML", "en", ""); 
-fs.writeFileSync(process.argv[3], txt);
+fs.writeFileSync(process.argv[3], txt,{encoding:'utf8',flag:'w'});
 
 
